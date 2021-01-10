@@ -1,0 +1,6 @@
+kind: pipeline
+setups:
+- name: test
+  image: none
+  commands:
+  - echo 111
